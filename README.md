@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 👯 I’m looking to collaborate with other Data Talent.
 - 💬 Ask me about Exploratory Data Analysis, Data Preparation, Data Visualization, and Machine Learning Modelling.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibnu-yp/)
 
 <!--
 **iyp36/iyp36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
