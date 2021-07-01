@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I'm Ibnu Yusuf Prakoso
+- 🌱 I’m currently learning Data Science & Machine Learning.
+- 👯 I’m looking to collaborate with other Data Talent.
+- 💬 Ask me about Exploratory Data Analysis, Data Preparation, Data Visualization, and Machine Learning Modelling.
 
 <!--
 **iyp36/iyp36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
